@@ -1,3 +1,4 @@
 # conflict-resolution
 
-another change adding to this file
+this is a new change
+another change adding to
